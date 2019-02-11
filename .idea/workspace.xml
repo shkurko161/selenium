@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c79235-2814-4449-b08c-279dfe9ef6df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
     <ignored path="$PROJECT_DIR$/java-example/build/" />
@@ -29,6 +31,11 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="java-example" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-example" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -38,20 +45,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="391">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,6 +91,12 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
@@ -112,7 +130,10 @@
             </path>
             <path>
               <item name="java-example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="java-example" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,7 +144,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549906057400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549912014734" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -182,6 +203,18 @@
     <history-entry file="MyFirstTest - 2019.02.11 at 20h 20m 44s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyFirstTest - 2019.02.11 at 20h 27m 13s.xml">
+      <configuration name="MyFirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyFirstTest - 2019.02.11 at 20h 27m 33s.xml">
+      <configuration name="MyFirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyFirstTest - 2019.02.11 at 20h 27m 51s.xml">
+      <configuration name="MyFirstTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyFirstTest - 2019.02.11 at 21h 56m 46s.xml">
+      <configuration name="MyFirstTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -198,18 +231,18 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Gradle" weight="0.32995737" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Maven" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -218,20 +251,23 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/java-example/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
