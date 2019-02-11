@@ -23,7 +23,7 @@ public class LocalHostTest {
     }
 
     @Test
-    public void mySecondTest() {
+    public void localHostTest() {
         driver.get("http://localhost/litecart/admin");
         driver.findElement(By.name("username")).sendKeys("admin");
         driver.findElement(By.name("password")).sendKeys("admin");
