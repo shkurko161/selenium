@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c79235-2814-4449-b08c-279dfe9ef6df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-example/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CheckSticker.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CheckSticker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CountriesAndGeoZones.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CountriesAndGeoZones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
     <ignored path="$PROJECT_DIR$/java-example/build/" />
@@ -98,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostMenu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+            <state relative-caret-position="451">
+              <caret line="85" selection-start-line="85" selection-end-line="85" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,7 +200,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="329" />
     <option name="y" value="-21" />
     <option name="width" value="1400" />
@@ -255,7 +254,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552144709928" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552148801470" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java-example/src/test/java" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
@@ -281,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CountriesAndGeoZones">
+  <component name="RunManager" selected="JUnit.CountriesAndGeoZones.geoZones">
     <configuration name="CheckSticker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <extension name="coverage">
@@ -328,6 +327,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CountriesAndGeoZones.geoZones" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.CountriesAndGeoZones" />
+      <option name="METHOD_NAME" value="geoZones" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountriesAndGeoZones.zonesByCountry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <extension name="coverage">
@@ -344,28 +359,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalHostMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.LocalHostMenu" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CountriesAndGeoZones.geoZones" />
         <item itemvalue="JUnit.CountriesAndGeoZones" />
         <item itemvalue="JUnit.CountriesAndGeoZones.zonesByCountry" />
         <item itemvalue="JUnit.CountriesAndGeoZones.countries" />
         <item itemvalue="JUnit.CheckSticker" />
-        <item itemvalue="JUnit.LocalHostMenu" />
       </list>
     </recent_temporary>
   </component>
@@ -383,27 +383,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 17h 58m 04s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 17h 58m 23s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 18h 06m 10s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 18h 07m 06s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 18h 07m 26s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 18h 12m 02s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 18h 14m 42s.xml">
-      <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CountriesAndGeoZones_zonesByCountry - 2019.03.09 at 18h 15m 01s.xml">
       <configuration name="CountriesAndGeoZones.zonesByCountry" configurationId="JUnit" />
     </history-entry>
@@ -412,6 +391,27 @@
     </history-entry>
     <history-entry file="CountriesAndGeoZones - 2019.03.09 at 18h 17m 09s.xml">
       <configuration name="CountriesAndGeoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 05m 06s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 12m 04s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 13m 34s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 17m 03s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 17m 59s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 20m 19s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 23m 30s.xml">
+      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -424,7 +424,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27132195" />
@@ -436,14 +436,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.30985916" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.8630064" weight="0.3336945" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.30985916" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.8630064" visible="true" weight="0.3336945" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.30985916" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.30985916" />
       <window_info anchor="bottom" id="Build" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -522,7 +522,7 @@
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -532,7 +532,7 @@
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -558,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="58" column="62" lean-forward="true" selection-start-line="58" selection-start-column="62" selection-end-line="58" selection-end-column="62" />
+        <state relative-caret-position="451">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
