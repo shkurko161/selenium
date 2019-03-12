@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c79235-2814-4449-b08c-279dfe9ef6df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CheckSticker.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CheckSticker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CountriesAndGeoZones.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/out/test/classes/ru/stqa/training/selenium/CountriesAndGeoZones.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/java-example/.gradle/" />
     <ignored path="$PROJECT_DIR$/java-example/build/" />
@@ -44,30 +47,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="29" column="53" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestFireFox.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -82,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="20" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            <state relative-caret-position="595">
+              <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,10 +71,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostMenu.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="1309">
+              <caret line="77" column="109" lean-forward="true" selection-start-line="77" selection-start-column="109" selection-end-line="77" selection-end-column="109" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,31 +95,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="76" column="36" lean-forward="true" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="300">
+              <caret line="32" column="98" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="323">
+              <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,13 +152,14 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostTest.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestFireFox.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestEI.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostMenu.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestBase.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CheckSticker.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task11.java" />
       </list>
     </option>
   </component>
@@ -252,7 +223,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552218641585" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552397108226" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java-example/src/test/java" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
@@ -278,22 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CountriesAndGeoZones.geoZones">
-    <configuration name="CheckSticker" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.CheckSticker" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Task11.task11">
     <configuration name="CountriesAndGeoZones" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ru.stqa.java-example.test" />
       <extension name="coverage">
@@ -305,22 +261,6 @@
       <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
       <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.CountriesAndGeoZones" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountriesAndGeoZones.countries" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ru.stqa.java-example.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.CountriesAndGeoZones" />
-      <option name="METHOD_NAME" value="countries" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -357,13 +297,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.Task11" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task11.task11" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ru.stqa.java-example.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.training.selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.training.selenium" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.training.selenium.Task11" />
+      <option name="METHOD_NAME" value="task11" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Task11.task11" />
+        <item itemvalue="JUnit.Task11" />
         <item itemvalue="JUnit.CountriesAndGeoZones.geoZones" />
         <item itemvalue="JUnit.CountriesAndGeoZones" />
         <item itemvalue="JUnit.CountriesAndGeoZones.zonesByCountry" />
-        <item itemvalue="JUnit.CountriesAndGeoZones.countries" />
-        <item itemvalue="JUnit.CheckSticker" />
       </list>
     </recent_temporary>
   </component>
@@ -381,35 +352,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 17m 03s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11 - 2019.03.12 at 15h 19m 15s.xml">
+      <configuration name="Task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 17m 59s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11 - 2019.03.12 at 15h 19m 40s.xml">
+      <configuration name="Task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 20m 19s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11 - 2019.03.12 at 15h 21m 19s.xml">
+      <configuration name="Task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 23m 30s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11 - 2019.03.12 at 15h 22m 58s.xml">
+      <configuration name="Task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 24m 56s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11 - 2019.03.12 at 15h 25m 46s.xml">
+      <configuration name="Task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 25m 09s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11_task11 - 2019.03.12 at 15h 25m 46s.xml">
+      <configuration name="Task11.task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 33m 50s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11_task11 - 2019.03.12 at 16h 14m 12s.xml">
+      <configuration name="Task11.task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 34m 03s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11_task11 - 2019.03.12 at 16h 16m 30s.xml">
+      <configuration name="Task11.task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones - 2019.03.09 at 19h 34m 59s.xml">
-      <configuration name="CountriesAndGeoZones" configurationId="JUnit" />
+    <history-entry file="Task11_task11 - 2019.03.12 at 16h 23m 22s.xml">
+      <configuration name="Task11.task11" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CountriesAndGeoZones_geoZones - 2019.03.09 at 19h 35m 41s.xml">
-      <configuration name="CountriesAndGeoZones.geoZones" configurationId="JUnit" />
+    <history-entry file="Task11_task11 - 2019.03.12 at 16h 23m 36s.xml">
+      <configuration name="Task11.task11" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -477,47 +448,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="20" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CheckSticker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="48" />
+        <state relative-caret-position="136">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -534,20 +468,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/MyFirstTest.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/LocalHostMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="459">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestBase.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestIE.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        <state relative-caret-position="595">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CheckSticker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Test10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -556,8 +517,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/CountriesAndGeoZones.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="76" column="36" lean-forward="true" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        <state relative-caret-position="1309">
+          <caret line="77" column="109" lean-forward="true" selection-start-line="77" selection-start-column="109" selection-end-line="77" selection-end-column="109" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="71" lean-forward="true" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/training/selenium/Task11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="98" selection-start-line="32" selection-start-column="98" selection-end-line="32" selection-end-column="98" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
